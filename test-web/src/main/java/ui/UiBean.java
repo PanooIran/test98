@@ -23,6 +23,10 @@ public class UiBean implements Serializable {
 		return "ali";
 	}
 	
+	public void sayHello() {
+		System.err.println("hello");
+	}
+	
 	
 	
 }
