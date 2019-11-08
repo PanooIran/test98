@@ -24,7 +24,7 @@ public class UiBean implements Serializable {
 	}
 	
 	public void sayHello() {
-		System.err.println("hello");
+		System.err.println("hello aliam");
 	}
 	
 	
